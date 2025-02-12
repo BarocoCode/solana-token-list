@@ -184615,6 +184615,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6uUEQw3eNLm2GsgbHETsTHdwikGcRGSt6y4WRtt9za1u",
+      "symbol": "$GUG",
+      "name": "$GUG Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6uUEQw3eNLm2GsgbHETsTHdwikGcRGSt6y4WRtt9za1u/Logo.svg",
+      "tags": [
+        "wagmi",
+        "meme"
+      ],
+      "extensions": {
+        "description": "Built from chaos, fueled by memes. Crypto's sassiest cat token.  Don't just HODL, GUG it!",
+        "website": "https://gugtoken.io",
+        "twitter": "https://x.com/GUG19224",
+        "medium": "https://medium.com/@gugtoken",
+        "coingeckoId": "gug-token",
+        "explorer": "https://solscan.io/token/6uUEQw3eNLm2GsgbHETsTHdwikGcRGSt6y4WRtt9za1u"
+      }
     }
   ],
   "version": {
